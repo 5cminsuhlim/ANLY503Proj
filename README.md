@@ -1,7 +1,7 @@
 # **Transportation Accidents:** Analyzing Deaths and Injuries for Trains and Airplanes
 
 ## Official Written Report (Research Gate)
-(Posterboard)[https://www.researchgate.net/publication/378204403_Transportation_Accidents_Analyzing_Deaths_and_Injuries_for_Trains_and_Airplanes]
+[Posterboard](https://www.researchgate.net/publication/378204403_Transportation_Accidents_Analyzing_Deaths_and_Injuries_for_Trains_and_Airplanes)
 
 ## Team 15 Members:
 * Andrea Dukic
